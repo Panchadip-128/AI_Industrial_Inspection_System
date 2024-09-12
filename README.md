@@ -4,3 +4,4 @@ AI-based autonomous system that uses computer vision and deep learning to detect
 Incorporating reinforcement learning for navigation, use advanced object detection models (like YOLOv8 or Mask R-CNN), and implement real-time anomaly detection
 
 Application: Autonomous monitoring of large-scale industrial plants, reducing human risk and error. Give complete code and dataset to be used name and link
+This will be fruitful for early detection and repair of any faults that may hinder industrial works
